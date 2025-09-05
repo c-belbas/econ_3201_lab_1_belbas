@@ -3,9 +3,9 @@
     "path": "~/econ_3201_lab_1_belbas/demo.R",
     "project_path": "demo.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4139514310",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1757102041351.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1757102146,
+    "lastKnownWriteTime": 1757104117,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757103614528,
+    "last_content_update": 1757104117998,
     "read_only": false,
     "read_only_alternatives": []
 }
